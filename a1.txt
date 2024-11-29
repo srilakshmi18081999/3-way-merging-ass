@@ -1,2 +1,7 @@
 a1
+<<<<<<< HEAD
 this is file a1
+=======
+a1 is a text file
+>>>>>>> first
+a1 merge both
